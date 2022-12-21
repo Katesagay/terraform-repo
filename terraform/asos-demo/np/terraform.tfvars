@@ -1,0 +1,5 @@
+stage             = "Test"
+location          = "North Europe"
+environment       = "NonProd"
+environment_short = "np"
+location_short    = "eun"
