@@ -1,0 +1,5 @@
+stage             = "Prod"
+location          = "West Europe"
+environment       = "Prod"
+environment_short = "pd"
+location_short    = "euw"
